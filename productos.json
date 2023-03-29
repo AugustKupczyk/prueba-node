@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Remera",
+        "vendido": true,
+        "categorias": [
+            "Moda",
+            "Ropa"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Remera2",
+        "vendido": true,
+        "categorias": [
+            "Moda",
+            "Ropa"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Remera3",
+        "vendido": true,
+        "categorias": [
+            "Moda",
+            "Ropa"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Remera4",
+        "vendido": true,
+        "categorias": [
+            "Moda",
+            "Ropa"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Licuadora",
+        "vendido": false,
+        "categorias": [
+            "Electrodomesticos",
+            "Hogar"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Licuadora",
+        "vendido": false,
+        "categorias": [
+            "Electrodomesticos",
+            "Hogar"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Licuadora",
+        "vendido": false,
+        "categorias": [
+            "Electrodomesticos",
+            "Hogar"
+        ]
+    }
+]

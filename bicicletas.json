@@ -1,0 +1,57 @@
+[   
+    {
+        "id":1,
+        "marca": "Fierce",
+        "modelo": "FM18SI29AM211",
+        "rodado": 16,
+        "añoFabricacion": 2019,
+        "color": "celeste",
+        "peso": 13,
+        "tipo": "montañera",
+        "precio": 150000,
+        "vendida": "si"
+    },
+    {
+        "id": 2,
+        "marca": "Shifter",
+        "modelo": "FM18F29AM210",
+        "rodado": 26,
+        "añoFabricacion": 2020,
+        "color": "negro",
+        "peso": 15,
+        "tipo": "paseo",
+        "precio": 100000,
+        "vendida": "no"
+    },
+    {
+        "id": 3,
+        "marca": "Olmo",
+        "modelo": "Regal",
+        "rodado": 28,
+        "añoFabricacion": 2021,
+        "color": "rosa",
+        "peso": 16,
+        "tipo": "retro",
+        "precio": 200000,
+        "vendida": "no"
+    },
+    {
+        "id":4,
+        "marca": "Halley",
+        "modelo": "Sunshine",
+        "rodado": 29,
+        "añoFabricacion": 2022,
+        "color": "rosa",
+        "peso": 17,
+        "tipo": "rojo",
+        "precio": 50000,
+        "vendida": "si"
+    }
+
+
+
+
+
+
+
+]
